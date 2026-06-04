@@ -1,4 +1,5 @@
 Counting Point Mutations
+
 OVERVIEW
 This program reads two string (s, t) of DNA sequence from a text file and counts the mismatches of its sequences.
 It is a solution to the "Counting Point Mutations" Rosalind problem (ID: HAMM). The tool is simple, efficient, and ideal for practicing file handling and string processing in Python.
